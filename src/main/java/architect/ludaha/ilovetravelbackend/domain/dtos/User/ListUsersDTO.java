@@ -1,4 +1,4 @@
-package architect.ludaha.ilovetravelbackend.domain.dtos.User.ListUsers;
+package architect.ludaha.ilovetravelbackend.domain.dtos.User;
 
 public record ListUsersDTO() {
 }
